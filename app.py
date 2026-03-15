@@ -195,4 +195,4 @@ if uploaded_file:
         st.plotly_chart(fig_bar, use_container_width=True)
 
 else:
-    st.info("👋 Menunggu file dataset... Silakan upload file Master Data Customer untuk melihat analisis."
+    st.info("👋 Menunggu file dataset... Silakan upload file Master Data Customer untuk melihat analisis.")
